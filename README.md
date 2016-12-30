@@ -6,4 +6,6 @@ This is about my begginer web stuff
 <head>
   <title>This is website title</title>
 </head>
+<body>
+</body>
 </html>
